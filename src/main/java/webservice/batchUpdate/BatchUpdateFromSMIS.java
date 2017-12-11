@@ -6,6 +6,7 @@ import javax.xml.ws.BindingProvider;
 
 import generated.ws.common.update.IspybWS;
 import generated.ws.common.update.UpdateFromSMISWebService;
+import webservice.UtilsDoNotCommit;
 
 /**
  * 
