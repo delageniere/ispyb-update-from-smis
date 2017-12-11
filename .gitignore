@@ -1,4 +1,4 @@
-target/
+target/*
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -71,5 +71,5 @@ ispyb-update-from-smis/.classpath
 # Mac
 *.DS_Store
 
-# do not commit
-ispyb-update-from-smis/src/main/java/webservice/UtilsDoNotCommit.java
+#credentials for webservices
+java/ispyb-WSclient-call/src/main/java/webservice/UtilsDoNotCommit.java
