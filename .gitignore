@@ -72,4 +72,4 @@ ispyb-update-from-smis/.classpath
 *.DS_Store
 
 #credentials for webservices
-java/ispyb-WSclient-call/src/main/java/webservice/UtilsDoNotCommit.java
+src/main/java/webservice/UtilsDoNotCommit.java
