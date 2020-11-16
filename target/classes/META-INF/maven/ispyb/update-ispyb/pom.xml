@@ -67,10 +67,17 @@
   </properties>
 
   <dependencies>
-  		<dependency>
+  	<!--  	<dependency>
 			<groupId>ispyb</groupId>
 			<artifactId>ispyb-WSclient-updateFromSMIS</artifactId>
 			<version>0.0.2</version>
+		</dependency>
+		-->
+	
+	  		<dependency>
+			<groupId>ispyb</groupId>
+			<artifactId>ispyb-WSclient-batchUpdate</artifactId>
+			<version>1.0</version>
 		</dependency>
 		
 	<dependency>

@@ -22,6 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/ispyb-WSclient-userportal-gen/preparedjars/ispyb-WSclient-userportal-gen-1.3.jar"/>
+	<classpathentry kind="lib" path="/ispyb-WSclient-gen/preparedjars/ispyb-WSclient-batchUpdate-1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
